@@ -3,4 +3,8 @@
 -export([none/0]).
 
 none() ->
-    ok.
+    {ok, 1}.
+
+% compile in erl shell:
+% cd(lib).
+% c(empty).
