@@ -1,5 +1,5 @@
 # Gene I. Sher
-## Handbook of neuroevolution through Erlang
+## Handbook of Neuroevolution Through Erlang
 
 (by) Dmitry Ponyatov <<dponyatov@gmail.com>> 2025 MIT
 
