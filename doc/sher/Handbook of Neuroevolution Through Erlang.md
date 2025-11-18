@@ -8,3 +8,4 @@
 #### [[erl/hello|Hello Erlang]]
 #### [[erl/apps]]
 #### [[erl/why|Why Erlang?]]
+#### [[erl/lyse]]

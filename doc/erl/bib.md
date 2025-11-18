@@ -1,9 +1,10 @@
 # Erlang
 ## [[Elixir/bib]]
 
-## [lyse] ![[lyse.png]]
+##### lyse
+![[lyse.png]]
 
-^7d2c7d
+https://learnyousomeerlang.com/content
 
 - Хеберт Фред
 - **Изучай Erlang во имя добра!**

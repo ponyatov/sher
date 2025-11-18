@@ -1,6 +1,8 @@
 ```sh
-sudo apt install -uy erlang rebar
+sudo apt install -uy erlang rebar3
 ```
+- [[Erlang]]
+- [[rebar3]]
 
 ## check
 
