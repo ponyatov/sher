@@ -9,8 +9,8 @@ io:format("Hello from Erlang REPL!~n").
 % ok
 
 % change directory to .elf files
-cd(lib).
-% /home/dponyatov/sher/lib
+cd(src).
+% /home/dponyatov/sher/src
 % ok
 % also: cd("..").
 
