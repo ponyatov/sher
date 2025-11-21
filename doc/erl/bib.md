@@ -41,6 +41,13 @@ https://learnyousomeerlang.com/content
 https://www.erlang-factory.com/upload/presentations/708/HitchhikersTouroftheBEAM.pdf
 
 ##### sher
+<<<<<<< HEAD
+**[[Handbook of Neuroevolution Through Erlang]]**
+*[[Gene I. Sher]]*
+DOI 10.1007/978-1-4614- - ,
+© [[Springer]] Science+Business Media [[New York]] 2013
+=======
 ![[sher.png]]
 **[[Handbook of Neuroevolution Through Erlang]]**
 *[[Gene I. Sher]]*
+>>>>>>> 00bc7fdba2ab3b54bfb9491fbd6b1476c6f68d05
