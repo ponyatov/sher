@@ -1,0 +1,2 @@
+# activation function
+![[bias]]
